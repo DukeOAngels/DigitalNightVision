@@ -1,5 +1,6 @@
-====================================================================
+:
       🔭 DIGITAL NIGHT VISION v1.0 (NVIDIA GPU ACCELERATED)
+      
 ====================================================================
 
 [ ⚖️ LICENSE & COPYRIGHT ]
@@ -15,7 +16,9 @@ https://github.com/DukeOAngels/Licenses/blob/main/DukeOAngels%20Demo%20License%2
 
 [ 🛡️ SECURITY & TRUST ]
 --------------------------------------------------------------------
-Is this a virus? NO. 
+Is this a virus? 
+
+NO. 
 Because this is an unsigned .exe, Windows may flag it. It is safe!
 The app triggers alerts because it requires these features to work:
 1. DXCAM: High-speed screen capture to apply the NVG filter.
@@ -24,9 +27,12 @@ The app triggers alerts because it requires these features to work:
 
 [ SYSTEM REQUIREMENTS ]
 --------------------------------------------------------------------
-> GPU:      NVIDIA GeForce / RTX / Quadro 
+> GPU:      NVIDIA GeForce / RTX / Quadro
+
 > DRIVERS:  NVIDIA v570.xx or Higher (CUDA 13.1+ Support)
+
 > OS:       Windows 10 / 11 (64-bit)
+
 > MODE:     Games must be in BORDERLESS or WINDOWED mode.
 
 [ 🚀 QUICK START ]
@@ -44,6 +50,7 @@ The app triggers alerts because it requires these features to work:
 [ ⌨️ CONTROLS ]
 --------------------------------------------------------------------
 ● MOUSE BUTTON 4 (X1) : Toggle Night Vision ON / OFF
+
 ● PAUSE/BREAK KEY     : Emergency Exit (Full Shutdown)
 
 [ 🛠️ TROUBLESHOOTING ]
